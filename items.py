@@ -2,8 +2,8 @@ import pygame
 import random
 
 GROUND_LEVEL = 350
-ENERGY_COLOR = (0, 200, 255)
-DRINK_COLOR = (255, 200, 0)
+DRINK_COLOR = (0, 200, 255)
+ENERGY_COLOR = (255, 200, 0)
 
 class Item(pygame.sprite.Sprite):
     def __init__(self, kind):  
