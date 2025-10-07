@@ -21,8 +21,8 @@ pygame.time.set_timer(SPAWN_ITEM, 2000)
 
 # Stats
 score = 0
-energy = 150     # nhảy cao
-drink = 150     # tốc độ
+energy = 100     # nhảy cao
+drink = 100     # tốc độ
 game_active = True
 
 while True:
